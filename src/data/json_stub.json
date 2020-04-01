@@ -1,0 +1,370 @@
+{
+    "basics": {
+        "name": "Arghyadeep Das",
+        "label": "Programmer",
+        "picture": "",
+        "email": "arghyadeep1899@gmail.com",
+        "phone": "+91-7045607846",
+        "website": "http://arghyadeep99.github.io",
+        "summary": "An ambitious technophile interested in exploring Artificial Intelligence and other budding technologies",
+        "location": {
+            "address": "Shah Arcade, Sec-6, Kharghar",
+            "postalCode": "410210",
+            "city": "Navi Mumbai",
+            "countryCode": "IN",
+            "region": "Maharashtra"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "arghyadeep99",
+                "url": "http://github.com/arghyadeep99"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "arghyadeepdas99",
+                "url": "http://twitter.com/arghyadeepdas99"
+            },
+            {
+                "network": "Twitter",
+                "username": "arghyadeepdas99",
+                "url": "http://twitter.com/arghyadeepdas99"
+            },
+            {
+                "network": "Medium",
+                "username": "@arghyadeep.d",
+                "url": "https://medium.com/@arghyadeep.d"
+            },
+            {
+                "network": "Facebook",
+                "username": "Arghyadeep Das",
+                "url": "https://facebook.com/arghyadeep.das.35"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "NITI Aayog",
+            "position": "Research Intern",
+            "website": "https://niti.gov.in/",
+            "startDate": "2019-12-09",
+            "endDate": "2020-01-25",
+            "summary": "I worked on identifying the ethical challenges of Artificial Intelligence (AI) that the Government of India must address before the national adoption of AI, recognizing some current solutions that exist and also exploring the potential use cases of AI technology for the Government of India to venture into. I also worked on the impact of AI on climate change in India and reviewed multiple technology policies.",
+            "location": "New Delhi",
+            "highlights": ["The work was very well appreciated by Advisors from different verticals."]
+        },
+        {
+            "name": "K.J. Somaiya College of Engineering",
+            "position": "Documentation Team Member",
+            "website": "https://kjsce.somaiya.edu/kjsce",
+            "startDate": "2018-03-01",
+            "endDate": "2019-10-25",
+            "summary": "I was responsible for documentation, presentations, reports of events, seminars,workshops, etc. and other official handling at KJSCE Outreach Center for Cyber Security. This was done all under Directorate for Civil Defence, the Government of Maharashtra.",
+            "location": "Mumbai",
+            "highlights": [""]
+        },
+        {
+            "name": "K.J. Somaiya College of Engineering",
+            "position": "Deep Learning Summer Research Intern",
+            "website": "https://kjsce.somaiya.edu/kjsce",
+            "startDate": "2019-06-13",
+            "endDate": "2019-09-13",
+            "summary": "Led a team of 4 members to develop an offline mobile app to help farmers detect crop diseases using PyTorch framework and Android Studio. The model achieved 97.57% accuracy with fine tuning.",
+            "location": "Mumbai",
+            "highlights": [""]
+        },
+        {
+            "name": "K.J. Somaiya College of Engineering",
+            "position": "Deep Learning Winter Research Intern",
+            "website": "https://kjsce.somaiya.edu/kjsce",
+            "startDate":"2018-12-15",
+            "endDate": "2019-01-15",
+            "summary": "We developed a Deep Learning model in Keras for Diabetic Retinopathy in medical scans of iris.",
+            "location": "Mumbai",
+            "highlights": [""]
+        },
+        {
+            "name": "K.J. Somaiya College of Engineering",
+            "position": "Android App Development Intern",
+            "website": "https://kjsce.somaiya.edu/kjsce",
+            "startDate":"2018-06-15",
+            "endDate": "2018-07-15",
+            "summary": "We developed an Android App that serves as an interactive platform for the students and faculties of our college with access to past year papers, reminders for vivas, quizzes, tutorials, exam time tables and doubt discussions. I was responsible for incorporating Firebase and managing the backend. I also revamped the UI and performed the frontend and backend integration.",
+            "location": "Mumbai",
+            "highlights": [""]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Somaiya Machine Learning Research Association",
+            "position": "Community Mentor",
+            "website": "http://github.com/smlra-kjsce",
+            "startDate": "2019-07-15",
+            "endDate": "",
+            "summary": " We conducted a research paper reading group session on ResNet (2 sessions). Was a Speaker in ML-DL101 where I taught students about the basics of machine learning and deep learning. Gave students the intuition and understanding of maths working behind the algorithms in ML and DL. Was a Speaker in a session on Introduction to Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs). Gave students the idea and intuition of both and demonstrated on PyTorch. Was a Speaker in Deep Learning in NLP-101 where I gave an intuitive explanation of word embedding techniques like word2vec, GloVe and concepts like RNNs, LSTMs, GRUs, etc.",
+            "highlights": [""]
+        }
+    ],
+    "education": [
+        {
+            "institution": "K.J. Somaiya College of Engineering",
+            "area": "",
+            "studyType": "Bachelor of Technology in Computer Engineering",
+            "startDate": "2017-08-01",
+            "endDate": "2021-06-15",
+            "gpa": "9.35",
+            "courses": ["USHC104- Go Programming"]
+        },
+        {
+            "institution": "PACE Junior Science College",
+            "area": "Science",
+            "studyType": "",
+            "startDate": "2015-04-01",
+            "endDate": "2017-05-25",
+            "percentage": "91.67%",
+            "courses": [""]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python",
+            "level": "Intermediate",
+            "value": 100,
+            "keywords": []
+        },
+        {
+            "name": "Android",
+            "level": "Intermediate",
+            "value": 40,
+            "keywords": []
+        },
+        {
+            "name": "PyTorch",
+            "level": "Intermediate",
+            "value": 70,
+            "keywords": []
+        },
+        {
+            "name": "Machine Learning",
+            "level": "Intermediate",
+            "value": 80,
+            "keywords": []
+        },
+        {
+            "name": "Deep Learning",
+            "level": "Intermediate",
+            "value": 70,
+            "keywords": []
+        },
+        {
+            "name": "Java",
+            "level": "Intermediate",
+            "value": 60,
+            "keywords": []
+        },
+        {
+            "name": "C/C++",
+            "level": "Beginner",
+            "value": 40,
+            "keywords": []
+        },
+        {
+            "name": "Golang",
+            "level": "Beginner",
+            "value": 40,
+            "keywords": []
+        },
+        {
+            "name": "Django",
+            "level": "Intermediate",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "JavaScript"]
+        },
+        {
+            "name": "SQL",
+            "level": "Intermediate",
+            "value": 50,
+            "keywords": []
+        }
+    ],
+    "languages": [
+        { "language": "English", "value": 100, "fluency": "Professional" },
+        { "language": "Hindi", "value": 100, "fluency": "Professional" },
+        { "language": "Bengali", "value": 100, "fluency": "Professional" },
+        { "language": "French", "value": 40, "fluency": "Beginner" },
+        { "language": "German", "value": 30, "fluency": "Beginner" }
+    ],
+    "interests": [
+        {
+            "name": "Memes",
+            "gifUrl": "https://media.giphy.com/media/UTdRltjiYpN2vaHx6Q/giphy.gif"
+        },
+        {
+            "name": "Cricket",
+            "gifUrl": "https://media.giphy.com/media/NitUKhyVlDseQ/giphy.gif"
+        },
+        {
+            "name": "Music",
+            "gifUrl": "https://media.giphy.com/media/ku5EcFe4PNGWA/giphy.gif"
+        },
+        {
+            "name": "Politics",
+            "gifUrl": "https://media.giphy.com/media/WrMtnRZe6YDN6/giphy.gif"
+        },
+        {
+            "name": "Coding",
+            "gifUrl": "https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+        },
+        {
+            "name": "Travelling",
+            "gifUrl": "https://media.giphy.com/media/l1KueEVpWCUSTH6r6/giphy.gif"
+        },
+        {
+            "name": "Astronomy",
+            "gifUrl": "https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif"
+        }
+    ],
+    "references": [{ "name": "Arghyadeep Das", "reference": "Reference..." }],
+    "projects": [
+        {
+            "name": "Go-Karuna-Go",
+            "description": "A simple SlackBot created in Python that fetches data from the Indian Government’s webpage on state-wise Corona spread and informs users whenever there is a change in number of Corona Patients in the country.",
+            "images": []
+        },
+        {
+            "name": "ExSports Analytics",
+            "description":"This project was developed to assist cricket team coaches in analyzing players across a plethora of variables to decide the playing XI and much more!"
+        },
+        {
+            "name": "Light It Up",
+            "description":"A Messenger bot that posts memes, motivation, thoughts, tech news and jokes on demand. It depends on related subreddits to fetch them."
+        },
+        {
+            "name": "Khaan-दान",
+            "description":"A portal developed using Django to identify hotels and restaurants that deal with the issue of food wastage and also NGOs that work in the field of feeding the needy ones and connect them."
+        },
+        {
+            "name": "KhetiBaadi",
+            "description":"An offline application to help the farmers detect crop diseases using PyTorch. Converted model to TFLite version for deploying on Android. An accuracy of 97% was achieved. The farmer can either click a picture or choose a picture from his gallery and then get the prediction of disease, if any so that the farmer can take appropriate steps. "
+        },
+        {
+            "name": "Sports Highlights Generator",
+            "description":"A very basic command line project aimed at obtaining highlights from the full match video, without using computer vision and NLP. It uses basic concepts of energy and threshold in audio waves."
+        },
+        {
+            "name": "Battleship",
+            "description": "The traditional Battleship game with a modern GUI twist! This is the famous Battleship game that became popular during World War I time, and has been since then a classic game like Tic-Tac-Toe, Chess, Mario and so on. The traditional pen-paper game just got a facelift into modern GUI!"
+        },
+        {
+            "name": "Somaiya Classroom",
+            "description": "An Android app that serves as an interactive platform for the students and faculties of our college with access to past year papers, reminders for vivas, quizzes, tutorials, exam time tables and doubt discussions."
+        }
+    ],
+    "specific": {
+        "basics": {
+            "visaSponsorship": true,
+            "personalDescription": "I am a Junior pursuing B. Tech in Computer Engineering. I have maintained a good academic track record in my university along with managing the machine learning research club of my university and also focussing on my skill development from time-to-time. I love to take on challenges and get them done to prove my mettle. I love to learn everything that interests me and have the capacity to work on whatever project I am assigned to. \n\nI am a very flexible person and can quickly adapt to the needs of a project. I have been keenly exploring Machine Learning and Deep Learning from my first year of engineering and continued my journey in the field of Computer Vision mainly. My primary coding language is Python3. I am also a big fan of automation and bots. The motive of delivering something extraordinary pushes me every day in this field of computer science. \n\nIn my free time, I like to read blogs, play cricket, table tennis, watch tech videos, read about politics and astronomy."
+        },
+        "dreamJob": {
+            "locations": [
+                { "name": "Silicon Valley" },
+                { "name": "Switzerland" },
+                { "name": "France" },
+                { "name": "New Zealand" },
+                { "name": "India" }
+            ],
+            "remoteFrequency": "regularly"
+        },
+
+        "education": { "studiesLevel": 3 },
+        "work": {
+            "contractTypes": ["internship"],
+            "codingYears": 7,
+            "codingReason": "I have always been fascinated by the powers possessed by computing to reshape this world. Coding is the first step towards it. The ability to give back to the society in this way has a special feeling.",
+            "searchState": "activelySearching",
+            "experienceYears": 1
+        },
+        "sound": {
+            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+        },
+        "interestedBy": "Beautiful code, Quantum Physics and pure-hearted people."
+    },
+    "customization": {
+        "imageHeader": {
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "alt": "Default Banner"
+        },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#ffecf0",
+                    "100": "#ffd9e0",
+                    "200": "#ffb4c1",
+                    "300": "#fe8ea3",
+                    "400": "#fe6984",
+                    "500": "#fe4365",
+                    "600": "#cb3651",
+                    "700": "#98283d",
+                    "800": "#661b28",
+                    "900": "#330d14",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#fff5f5",
+                    "100": "#feebeb",
+                    "200": "#fed8d7",
+                    "300": "#fdc4c2",
+                    "400": "#fdb1ae",
+                    "500": "#fc9d9a",
+                    "600": "#ca7e7b",
+                    "700": "#975e5c",
+                    "800": "#653f3e",
+                    "900": "#321f1f",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#fefaf7",
+                    "100": "#fef5ef",
+                    "200": "#fdebde",
+                    "300": "#fbe1ce",
+                    "400": "#fad7bd",
+                    "500": "#f9cdad",
+                    "600": "#c7a48a",
+                    "700": "#957b68",
+                    "800": "#645245",
+                    "900": "#322923",
+                    "contrastDefaultColor": "light"
+                }
+            }
+        },
+        "cardsOrder": [
+            { "type": "basics", "variant": 4 },
+            { "type": "projects", "variant": 4 },
+            { "type": "skills", "variant": 0 },
+            { "type": "dreamjob", "variant": 4 },
+            { "type": "experiences", "variant": 4 },
+            { "type": "studies", "variant": 4 },
+            { "type": "gifs", "variant": 0 },
+            { "type": "interestedBy", "variant": 3 },
+            { "type": "language", "variant": 4 },
+            { "type": "soundtrack", "variant": 4 }
+        ]
+    }
+}
